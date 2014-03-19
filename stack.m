@@ -1,7 +1,10 @@
 // Log Stack Trace
+// 
 //
-// Platform: All
+// IDECodeSnippetIdentifier: A25FEC15-510D-4E97-A292-346A18665212
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 // Language: Objective-C
-// Completion Scope: Function or Method
+// Platform: All
 
 NSLog(@"Call Stack: %@", [NSThread callStackSymbols]);
