@@ -3,10 +3,10 @@
 //
 // IDECodeSnippetCompletionPrefix: awakeFromFetch
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
-// IDECodeSnippetIdentifier: 1A891CC8-CB10-4D6D-A05D-4A5B2EAFF6C1
+// IDECodeSnippetIdentifier: 98F70783-46E3-4C36-A83E-D75956D8F652
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 - (void)awakeFromFetch
 {
     [super awakeFromFetch];
