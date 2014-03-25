@@ -1,4 +1,4 @@
-// NSFetchedResultsController
+// NSFetchedResultsController Init
 // Boilerplate for creating an NSFetchedResultsController
 //
 // IDECodeSnippetCompletionPrefix: NSFetchedResultsController
