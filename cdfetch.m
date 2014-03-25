@@ -1,6 +1,7 @@
 // Core Data Fetch
 // Simple Core Data Fetch with Predicate & Sort Descriptor
 //
+// IDECodeSnippetCompletionPrefix: NSFetchRequest
 // IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: 01C08072-E244-46DC-89B6-3B092C753ADB
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
